@@ -9,7 +9,7 @@ setup(
     version='0.1',
     packages=['FDCToolbox'],
     long_description=readme(),
-    long_description_content_type='text',
+    long_description_content_type='md',
     url='',
     author='Parth Viradiya',
     author_email='parthviradiya08@gmail.com',
