@@ -1,0 +1,11 @@
+References:
+------------
+        [1] "Aircraft control and simulation: dynamics, controls design, and autonomous systems",
+            2nd edition, Stevens, B. L., Lewis, F. L., & Johnson, E. N. (2003), John Wiley & Sons.
+        
+        [2] "Verification Challenges in F-16 Ground Collision Avoidance and Other Automated Maneuvers", 
+            P. Heidlauf, A. Collins, M. Bolender, S. Bak, 5th International Workshop on Applied 
+            Verification for Continuous and Hybrid Systems (ARCH 2018)
+        
+        [3] https://github.com/stanleybak/AeroBenchVVPython
+
