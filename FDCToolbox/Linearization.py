@@ -1,6 +1,6 @@
-from F16_Model import f16_model
-from Trim import trim
-from utils import print_matrix
+from .F16_Model import f16_model
+from .Trim import trim
+from .utils import print_matrix
 import numpy as np
 
 

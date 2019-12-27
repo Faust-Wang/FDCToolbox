@@ -14,9 +14,9 @@ from numpy import sin, cos, arcsin, sqrt, tan, arctan
 
 from scipy.optimize import fmin
 
-from atmospheric_model import adc
-from F16_Engine_data import tgear
-from F16_Model import f16_model
+from .atmospheric_model import adc
+from .F16_Engine_data import tgear
+from .F16_Model import f16_model
 
 # from https://github.com/AeroPython/PyFME/blob/master/src/pyfme/utils/trimmer.py
 def turn_coord_cons(turn_rate, alpha, beta, TAS, gamma=0):

@@ -1,5 +1,5 @@
 import numpy as np
-from utils import fix
+from .utils import fix
 
 
 # Ref [1] page 635

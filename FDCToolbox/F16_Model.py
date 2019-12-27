@@ -1,7 +1,7 @@
 from numpy import sin, cos, pi
-from atmospheric_model import adc
-from F16_Engine_data import *
-from F16_Aerodynamic_data import *
+from .atmospheric_model import adc
+from .F16_Engine_data import *
+from .F16_Aerodynamic_data import *
 
 
 # Ref [1] page 184-185 

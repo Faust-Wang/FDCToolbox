@@ -1,5 +1,5 @@
 import numpy as np
-from interpolation_algorithms import *
+from .interpolation_algorithms import *
 
 
 # Ref [1] page 637 
